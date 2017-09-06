@@ -1,0 +1,38 @@
+# Created by Octave 3.8.0, Sat Aug 12 11:51:37 2017 PDT <rgonugunta@ranganatha-gonugunta-rmbp.local>
+# name: num_features
+# type: scalar
+3
+
+
+# name: num_decks
+# type: scalar
+5
+
+
+# name: num_users
+# type: scalar
+3
+
+
+# name: Theta
+# type: matrix
+# rows: 5
+# columns: 3
+ 0.28544 -1.6843 0.26294
+ 0.50501 -0.45465 0.31746
+ -0.43192 -0.4788 0.84671
+ 0.7286 -0.27189 0.32684
+ 0.052119 -1.3807 0.63794
+
+
+# name: X
+# type: matrix
+# rows: 5
+# columns: 3
+ 1.0487 -0.40023 1.1941
+ 0.78085 -0.38563 0.5212
+ 0.64151 -0.5478499999999999 -0.083796
+ 0.45362 -0.80022 0.68048
+ 0.93754 0.10609 0.36195
+
+
